@@ -1,0 +1,2 @@
+SELECT * FROM apps
+ORDER BY rating DESC;
